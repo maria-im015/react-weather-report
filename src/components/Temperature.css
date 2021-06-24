@@ -1,0 +1,23 @@
+.red {
+    background-color: rgb(167, 14, 14);
+}
+
+.orange {
+    background-color: rgb(194, 107, 8);
+}
+
+.yellow {
+    background-color: rgb(233, 199, 7);
+}
+
+.green {
+    background-color: rgb(34, 158, 23);
+}
+
+.teal {
+    background-color: rgb(10, 204, 178);
+}
+
+.button{
+    margin: 1em;
+}
